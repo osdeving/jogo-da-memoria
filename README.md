@@ -8,8 +8,7 @@ Um jogo da memória com a temática de Super Mario!
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
-Joguem em: http://osdeving.github.io/jogo-da-memoria/index.html
-
+Joguem em: https://osdeving.github.io/jogo-da-memoria/
 ## 🚀 Let's code! 🚀
 
 Tutorial de Gabriela Pinheiro no bootcamp de JavaScript Game Developer da Digital Innovation One
